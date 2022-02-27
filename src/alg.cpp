@@ -1,6 +1,6 @@
 #include <cstdint>
-#include "alg.h"
 #include <cmath>
+#include "alg.h"
 
 bool checkPrime(uint64_t value) {
 if (value % 2 == 0 && value != 2) return 0;
