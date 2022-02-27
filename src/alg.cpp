@@ -1,3 +1,4 @@
+//Copyright 2022 <Degtyarev Paul>
 #include <cstdint>
 #include <cmath>
 #include "alg.h"
