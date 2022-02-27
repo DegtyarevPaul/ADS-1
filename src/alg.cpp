@@ -18,7 +18,7 @@ while (i < n) {
 num++;
 if (checkPrime(num)) i++;
 }
-return i;
+return num;
 }
 
 uint64_t nextPrime(uint64_t value) {
